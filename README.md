@@ -27,3 +27,6 @@ run below code in manifold
 Now you success configuration the manifold!  
 Maybe you want run the project at the time  
 > python3 main.py
+
+And click here to get Digit Dataset：链接：https://pan.baidu.com/s/1CpF1YP_LgvzTporvcDDJIw 
+提取码：eqoq 
